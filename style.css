@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(Untitle333d.png);
+}
+.site{
+    background-color: hsla(0, 0%, 0%, 0.8);
+    color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+}
